@@ -32,6 +32,7 @@ have demonstrated remarkable success in various image classification tasks, incl
 medical imaging. By harnessing this technology, we aim to develop an automated system 
 capable of detecting pneumonia from chest X-ray images swiftly and accurately, without 
 the need for extensive manual interpretation. 
+The data is downloaded from : https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 ## 3. Objective: 
 
 Our objective is to develop a Convolutional Neural Network (CNN) model tailored for 
