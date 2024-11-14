@@ -235,3 +235,6 @@ Radiology 284.
 3. Saced.F.Paul, A.Karthigakumar ,P.Nayyar:A Convolutional neural network 
 based on early detection p.p 1-17 
 
+![Screenshot 2024-03-25 151347](https://github.com/user-attachments/assets/28be53da-b24d-4082-beac-2f55c04414f2) 
+![Screenshot 2024-03-25 151436](https://github.com/user-attachments/assets/ef539f86-3daf-45a3-a2cd-6af70efcd765)
+
